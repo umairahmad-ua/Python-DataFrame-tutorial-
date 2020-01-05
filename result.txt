@@ -1,0 +1,7 @@
+OOP : 86
+MVC : 91
+Discrete : 70
+Isl : 80
+Pak Study : 75
+Technical : 76
+PF: 92
